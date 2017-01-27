@@ -1,0 +1,5 @@
+"FOR MAKING MIND MAPS"
+https://www.reddit.com/r/Python/comments/3ir254/python_library_suggestions_for_making_custom/
+
+"LABELS ON NETWORKSX"
+http://stackoverflow.com/questions/15548506/node-labels-using-networkx
